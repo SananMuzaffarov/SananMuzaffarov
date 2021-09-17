@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **Javascript**
 
 
 
