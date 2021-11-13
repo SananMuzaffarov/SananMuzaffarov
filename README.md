@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/SananMuzaffarov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="SananM" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/SananMuzaffarov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="SananM" height="30" width="40" /></a>
 <a href="https://www.instagram.com/senanmuzaffarov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"alt="https://www.linkedin.com/in/senanmuzaffarov/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sanan-muzaffarov-b0ba9a215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="SananM" height="30" width="40" /></a>  
 </p>
