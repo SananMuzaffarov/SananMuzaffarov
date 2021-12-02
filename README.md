@@ -16,7 +16,6 @@
 
 
 - 📫 How to reach me **smuzefferov1@gmail.com**
-- ⚡ Fun fact: I am good at football.
 
 
 
