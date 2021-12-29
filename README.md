@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **Coding**
+- 🔭 I’m currently working on **JavaScript**
 
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 
 
