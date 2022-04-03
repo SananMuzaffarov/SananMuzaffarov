@@ -7,10 +7,6 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
-
-
-
 - 💬 Ask me about **what did you want**
 
 
