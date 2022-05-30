@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **React**
 
 
 
-- 💬 Ask me about **what did you want**
+- 💬 Ask me about **Front-End Development**
 
 
 
