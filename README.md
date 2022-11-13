@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **IzahTap Website**
 
-- 🌱 I’m currently learning **React JS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/SananMuzaffarov](https://github.com/SananMuzaffarov)
 
 - 📫 How to reach me **smuzefferov1@gmail.com**
