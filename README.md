@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **IzahTap Website**
+- 🔭 I’m currently working on **Bionluk & Upwork**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SananMuzaffarov](https://github.com/SananMuzaffarov)
 
