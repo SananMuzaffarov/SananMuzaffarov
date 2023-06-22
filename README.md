@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Bionluk & Upwork**
+- 🔭 I’m currently working as a Intern Frontend Developer at **VABISS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SananMuzaffarov](https://github.com/SananMuzaffarov)
 
