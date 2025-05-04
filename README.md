@@ -27,14 +27,14 @@
 <li><strong>GIT</strong>: GitHub | GitLab | GitHub Actions</li>
 </ul>
 </details>
-<detail>
+<details>
   <summary>🔍 Data Analytics </summary>
 <ul dir="auto">
 <li><strong>Python</strong></li>
 <li><strong>Microsoft Excel</strong></li>
 <li><strong>Power BI</strong></li>
 </ul>
-</detail>
+</details>
 <details>
   <summary>🌟 Other Skills</summary>
 <ul dir="auto">
