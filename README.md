@@ -10,14 +10,14 @@
 <details>
   <summary>💻 Frontend Development</summary>
 <ul dir="auto">
-<li><strong>JavaScript / React.js</strong></li>
+<li><strong>JavaScript / React.js / Chart.js</strong></li>
 <li><strong>HTML | CSS | SCSS | MUI | Bootstrap | Tailwind</strong></li>
 </ul>
 </details>
 <details>
   <summary>☁️ Database </summary>
 <ul dir="auto">
-<li><strong>Relational Databases</strong>: MySQL</li>
+<li><strong>Relational Databases</strong>: MySQL | Oracle</li>
 <li><strong>Non-Relational Databases</strong>: MongoDB</li>
 </ul>
 </details>
@@ -27,10 +27,19 @@
 <li><strong>GIT</strong>: GitHub | GitLab | GitHub Actions</li>
 </ul>
 </details>
+<detail>
+  <summary>🔍 Data Analytics </summary>
+<ul dir="auto">
+<li><strong>Python</strong></li>
+<li><strong>Microsoft Excel</strong></li>
+<li><strong>Power BI</strong></li>
+</ul>
+</detail>
 <details>
   <summary>🌟 Other Skills</summary>
 <ul dir="auto">
 <li><strong>Bash | Docker</strong></li>
+<li><strong>Jira | Trello</strong></li>
 <li><strong>Figma | Adobe Photoshop</strong></li>
 </ul>
 </details>
