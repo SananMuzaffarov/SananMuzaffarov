@@ -1,7 +1,7 @@
 <div class="Box mt-4 ">
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
-<p dir="auto">👋 Hi! I am a Computer Science Student passionate about creating websites. I focus on delivering scalable and efficient applications that enhance user experiences.</p>
+<p dir="auto">👋 Hi! I am a Computer Science Student passionate about creating websites. I focus on delivering scalable and efficient applications that enhance user experiences. Currently, I am expanding my skill set into Data Analytics/Science to gain deeper insights into data-driven decision-making and bring a new perspective to problem-solving in tech. I am passionate about learning new tools and continuously improving my development and analytical skills. I'm always looking for new challenges and opportunities to grow as a developer. Feel free to reach out to me through my LinkedIn profile.</p>
 <ul dir="auto">
 <li><strong>Email</strong>: <a href="mailto:smuzefferov1@gmail.com">smuzefferov1@gmail.com</a></li>
 <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/sananmuzaffarov" rel="nofollow">linkedin.com/in/sananmuzaffarov</a></li>
