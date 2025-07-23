@@ -10,9 +10,9 @@
 <details>
   <summary>💻 Frontend & Backend Development</summary>
 <ul dir="auto">
-<li><strong>JavaScript / React.js / Chart.js</strong></li>
-<li><strong>HTML | CSS | SCSS | MUI | Bootstrap | Tailwind</strong></li>
-<li><strong>Node.js | Express.js </strong></li>
+<li><strong>JavaScript / React.js / Angular / Chart.js</strong></li>
+<li><strong>HTML / CSS / SCSS / MUI / Bootstrap / Tailwind</strong></li>
+<li><strong>Typescript / Node.js / Express.js </strong></li>
 
 </ul>
 </details>
