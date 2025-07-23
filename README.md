@@ -32,6 +32,7 @@
 <details>
   <summary>🔍 Data Analytics </summary>
 <ul dir="auto">
+<li><strong>Statistics</strong></li>
 <li><strong>Python</strong></li>
 <li><strong>Microsoft Excel</strong></li>
 <li><strong>Power BI</strong></li>
