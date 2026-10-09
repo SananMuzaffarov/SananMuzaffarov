@@ -1,7 +1,7 @@
 <div class="Box mt-4 ">
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
-<p dir="auto">Computer Science PhD student and Data Analyst with a strong software development background and professional experience as a Digital Growth Analyst. Skilled in Excel, SQL, Power BI, and digital analytics for data analysis, visualization, KPI tracking, and performance optimization. Experienced with Google Ads, keyword research, audience targeting, and conversion analysis. Combine technical, analytical, and software expertise to develop efficient solutions and support data-driven decision-making, with hands-on experience in React.js and Node.js. Feel free to reach out to me through my LinkedIn profile or my email address.</p>
+<p dir="auto"> Data Analyst and Computer Science PhD student at CQUPT with professional experience in digital growth analytics and a strong software development background. Skilled in SQL, Excel, Power BI, and Python, with experience in KPI tracking, data analysis, visualization, and Microsoft / Google Ads performance optimization. Interested in transforming complex data into actionable business insights while applying analytical and technical skills to AI and machine learning research. Feel free to reach out to me through my LinkedIn profile or my email address.</p>
 <ul dir="auto">
 <li><strong>Email</strong>: <a href="mailto:smuzefferov1@gmail.com">smuzefferov1@gmail.com</a></li>
 <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/sananmuzaffarov" rel="nofollow">linkedin.com/in/sananmuzaffarov</a></li>
